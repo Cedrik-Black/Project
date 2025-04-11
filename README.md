@@ -22,7 +22,6 @@ This project presents an exploratory data analysis (EDA) of the **World Happines
 - Python
 - Pandas
 - Matplotlib & Seaborn
-- Jupyter Notebook
 
 ## 📌 Key Findings
 - **GDP**, **freedom**, and **social support** strongly correlate with happiness.
@@ -41,17 +40,6 @@ This project presents an exploratory data analysis (EDA) of the **World Happines
    source venv/bin/activate  # or venv\Scripts\activate on Windows
    pip install -r requirements.txt
    ```
-3. Open Jupyter Notebook:
-   ```bash
-   jupyter notebook world_happiness_eda.ipynb
-   ```
 
 ## 📷 Sample Visualizations
 Wykresy zostaną wygenerowane automatycznie po uruchomieniu notebooka.
-
-## 📄 License
-MIT License
-
----
-
-> Created by [Your Name]
